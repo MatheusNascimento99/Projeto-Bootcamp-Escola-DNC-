@@ -1,5 +1,9 @@
 # Projeto-Bootcamp-Escola-DNC-
 Projeto Bootcamp Escola DNC ,página teste Media Query <br>
+
+Link para visualização / link to view:
+https://projeto-bootcamp-escola-dnc.vercel.app/
+
 Site hospedado: <br>
 https://bootcampescoladnc.netlify.app/ <br>
 Realizado responsividade em dimensões 393 x 851.<br>
